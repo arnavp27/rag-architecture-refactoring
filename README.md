@@ -126,10 +126,6 @@ WEAVIATE_PORT=8080
 3. Update documentation
 4. Run linters: `black .` and `pylint src/`
 
-## 📄 License
-
-[Your License Here]
-
 ## 👥 Authors
 
-[Your Name/Team]
+Arnav Patil
