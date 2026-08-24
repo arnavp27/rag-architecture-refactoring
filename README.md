@@ -128,4 +128,4 @@ WEAVIATE_PORT=8080
 
 ## 👥 Authors
 
-Arnav Patil
+Arnav Patil | Manoj Pal
